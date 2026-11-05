@@ -1,4 +1,10 @@
-.Rproj.user
+.DS_Store
 .Rhistory
 .RData
-.Ruserdata
+.Rproj.user/
+*.html
+*_files/
+
+# Raw and intermediate datasets are not stored in this public project.
+data/raw/
+data/intermediate/
