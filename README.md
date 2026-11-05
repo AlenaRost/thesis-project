@@ -1,6 +1,6 @@
 # Government Quality and Environmental Performance in European Regions
 
-> **Product analytics portfolio case in R.** The subject is regional
+> **Master's Thesis Research.** The subject is regional
 > environmental performance, while the analytical workflow follows the same
 > sequence used in product analytics: define a metric, formulate a hypothesis,
 > segment observations, analyse trends, test the relationship, and communicate
@@ -10,7 +10,7 @@
 
 | Element | Definition |
 | --- | --- |
-| Analytical question | Is regional government quality associated with greenhouse gas emissions intensity? |
+| Research Question | Is regional government quality associated with greenhouse gas emissions intensity? |
 | Primary metric | `GHG_per_GDP`: greenhouse gas emissions per unit of regional GDP |
 | Main explanatory metric | `EQI_interp`: interpolated European Quality of Government Index |
 | Unit of analysis | NUTS-2 region-year |
